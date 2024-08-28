@@ -1,4 +1,7 @@
 {
-    "userspace_version": "1.0",
-    "build_targets": []
+    "userspace_version": "1.1",
+    "build_targets": [
+        ["keychron/q2/ansi_encoder", "adophoxia"],
+        ["keychron/q0/base", "adophoxia"]
+    ]
 }
